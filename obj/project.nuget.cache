@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ssArT686LFyBr3DogeitSB3yu51RHOVyO5v/c0xF0dHfwzvFEeLziTij/mWbraAtVBUVyGn382CfIrp3LYn6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\I-Ray\\source\\repos\\Webscrap\\Webscrap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I-Ray\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\fsharp.core\\4.5.2\\fsharp.core.4.5.2.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\htmlagilitypack\\1.11.52\\htmlagilitypack.1.11.52.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.19.0\\microsoft.identitymodel.abstractions.6.19.0.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\microsoft.identitymodel.logging\\6.19.0\\microsoft.identitymodel.logging.6.19.0.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.19.0\\microsoft.identitymodel.tokens.6.19.0.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\scrapysharp\\3.0.0\\scrapysharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\selenium.support\\4.12.4\\selenium.support.4.12.4.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\selenium.webdriver\\4.12.4\\selenium.webdriver.4.12.4.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0-preview1-26216-02\\system.configuration.configurationmanager.4.5.0-preview1-26216-02.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\system.runtime.caching\\4.5.0-preview1-26216-02\\system.runtime.caching.4.5.0-preview1-26216-02.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\I-Ray\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0-preview1-26216-02\\system.security.cryptography.protecteddata.4.5.0-preview1-26216-02.nupkg.sha512"
+  ],
+  "logs": []
+}
